@@ -1,3 +1,0 @@
-Compilar:
-gcc -o string string.c cs50.c
-
