@@ -15,10 +15,10 @@ Problem set 2b - Substitution:
 Recieving a 26 character string throug command-line argument, use the key as a reordered alphabet to encrypt a given text.  
 https://cs50.harvard.edu/x/2022/psets/2/substitution/
 
-Lab 2 - Scrabble
-Recieving 2 words as inputs, calculate which is the winner based on the point system in Scrabble.
+Lab 2 - Scrabble:  
+Recieving 2 words as inputs, calculate which is the winner based on the point system in Scrabble.  
 https://cs50.harvard.edu/x/2022/labs/2/
 
-Problem Set 3 - Runoff  
+Problem Set 3 - Runoff:  
 Input a ranked list of candidates of x amount of voters, then calculate the winner of an election based on the runoff system.    
 https://cs50.harvard.edu/x/2022/psets/3/runoff/  
