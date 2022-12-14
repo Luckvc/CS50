@@ -19,6 +19,6 @@ Lab 2 - Scrabble
 Recieving 2 words as inputs, calculate which is the winner based on the point system in Scrabble.
 https://cs50.harvard.edu/x/2022/labs/2/
 
-Problem Set 3 - Runoff
-input a ranked list of candidates of x amount of voters, then calculate the winner of an election based on the runoff system.
-https://cs50.harvard.edu/x/2022/psets/3/runoff/
+Problem Set 3 - Runoff  
+Input a ranked list of candidates of x amount of voters, then calculate the winner of an election based on the runoff system.    
+https://cs50.harvard.edu/x/2022/psets/3/runoff/  
